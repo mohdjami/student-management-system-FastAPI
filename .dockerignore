@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Development and local files
+*.log
+.env
+.DS_Store
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Backup files
+*.bak
+*.gch
+
+# Temporary files
+temp/
+tmp/

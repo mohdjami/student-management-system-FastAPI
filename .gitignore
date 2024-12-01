@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.pytest_cache
+
+# Local development configurations
+.env
+*.env
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Database files (if not using migrations)
+*.sqlite3
+
+# Backup files
+*.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Deployment and local configuration
+local_settings.py
+
+# Security-sensitive files
+secrets.json
